@@ -1,0 +1,4 @@
+node_modules
+.env
+# nunca suba a chave do Firebase para o GitHub
+config/serviceAccountKey.json
